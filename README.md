@@ -20,14 +20,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/html-and-css-solution-sR1bH4KlN_
+- Solution URL: (https://www.frontendmentor.io/solutions/html-and-css-solution-sR1bH4KlN_)
 - Live Site URL: https://may55a.github.io/QR-code-component/
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML5
 - CSS custom properties
 - Flexbox
 
